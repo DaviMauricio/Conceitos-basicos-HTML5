@@ -6,4 +6,4 @@ Modulo 1 (curso em video) - Conceitos básicos, preparação do ambiente, semân
 https://user-images.githubusercontent.com/71526685/209450962-782dfe80-37a5-4878-bcdc-f6732631abe8.mp4
 
 
-f
+
